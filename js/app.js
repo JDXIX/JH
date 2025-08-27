@@ -9,6 +9,7 @@
  */
 
 import { voltearCarta } from './components/cartaDisplay.js';
+import { iniciarTemporizador } from './components/temporizador.js';
 
 ////////////////////////////////////////////////
 // 1. Referencias a elementos del DOM         //
